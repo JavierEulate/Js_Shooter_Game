@@ -4,3 +4,5 @@ Ejercicio práctico del curso MOOC "Desarrollo Frontend con HTML, CSS y Javascri
 
 Ejercicio desarrollado con Javascript y maquetación realizada con CSS utilizando el lenguaje de estilos [SASS](https://sass-lang.com/)
 Uso de animaciones y navegación modal entre ventanas con [Swiper](https://swiperjs.com/) y [animeJS](https://animejs.com/)
+
+![alt text](https://github.com/JavierEulate/Js_Shooter_Game/blob/master/images/Image.png)
